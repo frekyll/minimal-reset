@@ -1,0 +1,27 @@
+/*! minimal-reset | MIT License | https://github.com/frekyll/minimal-reset */
+
+/**
+ * 1. Prevent font size adjustments after orientation changes in IE on Windows
+ *    Phone and in iOS
+ * 2. Use a better box model
+ */
+
+html {
+	-ms-text-size-adjust: 100%; /* 1 */
+	-webkit-text-size-adjust: 100%; /* 1 */
+	box-sizing: border-box; /* 2 */
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit; /* 2 */
+}
+
+/**
+ * Remove margin in all browsers
+ */
+
+body {
+	margin: 0;
+}

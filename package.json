@@ -1,0 +1,28 @@
+{
+	"name": "minimal-reset",
+	"version": "1.0.0",
+	"description": "Reset default browser styles",
+	"main": "minimal-reset.css",
+	"scripts": {
+		"test": "stylelint minimal-reset.css"
+	},
+	"keywords": [
+		"browser",
+		"css",
+		"normalize",
+		"reset",
+		"style"
+	],
+	"author": "Josh Wenning",
+	"license": "MIT",
+	"devDependencies": {
+		"stylelint": "^9.3.0",
+		"stylelint-config-xo": "^0.9.0"
+	},
+	"stylelint": {
+		"extends": "stylelint-config-xo",
+		"rules": {
+			"property-no-vendor-prefix": null
+		}
+	}
+}
