@@ -14,3 +14,7 @@ This is an extremely minimal version of [modern-normalize](https://github.com/si
 
 ### npm
 `npm install minimal-reset`
+
+### Download
+
+[Download latest](https://github.com/frekyll/minimal-reset/archive/v1.0.zip)
