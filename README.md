@@ -26,4 +26,4 @@ This is nothing new. `minimal-reset` is intended to be small and focused. I took
 
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize)
 - [normalize.css](https://github.com/necolas/normalize.css/)
-- [normalize.css](https://github.com/csstools/sanitize.css)
+- [sanitize.css](https://github.com/csstools/sanitize.css)
