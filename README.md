@@ -19,3 +19,11 @@ This is an extremely minimal version of [modern-normalize](https://github.com/si
 ### Download
 
 [Download latest](https://github.com/frekyll/minimal-reset/archive/v1.0.zip)
+
+## Alternatives
+
+This is nothing new. `minimal-reset` is intended to be small and focused. I took inspiration from these projects. They are more versatile.
+
+- [modern-normalize](https://github.com/sindresorhus/modern-normalize)
+- [normalize.css](https://github.com/necolas/normalize.css/)
+- [normalize.css](https://github.com/csstools/sanitize.css)
