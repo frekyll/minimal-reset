@@ -1,6 +1,6 @@
 {
 	"name": "minimal-reset",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Reset default browser styles",
 	"main": "minimal-reset.css",
 	"scripts": {
