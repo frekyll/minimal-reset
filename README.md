@@ -18,7 +18,7 @@ This is an extremely minimal version of [modern-normalize](https://github.com/si
 
 ### Download
 
-[Download latest](https://github.com/frekyll/minimal-reset/archive/v1.0.zip)
+[Download latest](https://github.com/frekyll/minimal-reset/archive/v1.0.1.zip)
 
 ## Alternatives
 
