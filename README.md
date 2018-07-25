@@ -9,6 +9,7 @@ This is an extremely minimal version of [modern-normalize](https://github.com/si
 
 - Set box model to `border-box`
 - Prevent font size adjustments after orientation changes
+- Remove margin in all browsers
 
 ## Install
 
