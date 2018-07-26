@@ -2,6 +2,7 @@
 	"name": "minimal-reset",
 	"version": "1.0.1",
 	"description": "Reset default browser styles",
+	"repository": "frekyll/minimal-reset",
 	"main": "minimal-reset.css",
 	"scripts": {
 		"test": "stylelint minimal-reset.css"
